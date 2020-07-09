@@ -81,6 +81,8 @@ body {
 	color: #676666;
 }
 .body-text {
+	display: flex;
+	justify-content: center;
 	width: 163.29px;
 	height: 27.03px;
 	top: 303.61px;
